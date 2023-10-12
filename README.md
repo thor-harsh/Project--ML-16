@@ -16,7 +16,7 @@ Let's understand the apriori algorithm with the help of an example; suppose you 
 It helps the customers buy their products with ease and increases the sales performance of the Big Bazar.<br></br>
 
 We will what what person used to purchase together i.e if the purchase buys A then the most probable things to buy for him if he buys A. This will be very useful for someone
-running a supermart or any mart or any sales related bussiness they can keep the things together by making predictions from this model and selecting the top 10 or top 20 ones. This will help in boosting their bussiness to the next level.<br></br> 
+running a supermart or any mart or any sales related bussiness they can keep the things together by making predictions from this model and selecting the top 10 or as per as his/her needs. This will help in boosting their bussiness to the next level.<br></br> 
 
 **Important- Note: Explore the dataset once before going through the code.**
 
